@@ -32,6 +32,8 @@
 		814D8EE41C5A63A000D38E36 /* Day1-3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day1-3.playground"; sourceTree = "<group>"; };
 		81726FDC1C6CAEDA0051FF26 /* Day3-2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day3-2.playground"; sourceTree = "<group>"; };
 		81726FDD1C6CAEFD0051FF26 /* Day3-3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day3-3.playground"; sourceTree = "<group>"; };
+		81C52DED1C6E8D690064425B /* Day1-2-Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day1-2-Solution.playground"; sourceTree = "<group>"; };
+		81C52DEE1C6E8D840064425B /* Day1-3-Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day1-3-Solution.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +53,12 @@
 				814D8EE21C5A637000D38E36 /* Day1-1.playground */,
 				813884B31C620F5500F6DBDC /* Day1-1-Solution.playground */,
 				814D8EE31C5A639400D38E36 /* Day1-2.playground */,
-				81726FDD1C6CAEFD0051FF26 /* Day3-3.playground */,
+				81C52DED1C6E8D690064425B /* Day1-2-Solution.playground */,
 				814D8EE41C5A63A000D38E36 /* Day1-3.playground */,
-				81726FDC1C6CAEDA0051FF26 /* Day3-2.playground */,
+				81C52DEE1C6E8D840064425B /* Day1-3-Solution.playground */,
 				813884B51C621B0E00F6DBDC /* Day3-1.playground */,
+				81726FDC1C6CAEDA0051FF26 /* Day3-2.playground */,
+				81726FDD1C6CAEFD0051FF26 /* Day3-3.playground */,
 				814D8EDA1C5A634600D38E36 /* Tock-Challenges */,
 				814D8ED91C5A634600D38E36 /* Products */,
 			);

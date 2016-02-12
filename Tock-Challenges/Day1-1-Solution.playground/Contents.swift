@@ -1,6 +1,5 @@
-//: Playground - noun: a place where people can play
-
-import Cocoa
+// Russell Gordon
+// Day 1-1
 
 // Algorithm
 // 
