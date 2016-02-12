@@ -4,7 +4,7 @@
 // Algorithm
 // 
 // Input
-//  - As described in problem.
+//  - As described in problem. 
 //
 // Process
 // - validate input month (must be in range 1 to 12)
